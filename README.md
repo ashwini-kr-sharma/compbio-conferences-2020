@@ -1,5 +1,4 @@
-# compbio-conferences-and-workshops-2020
-List of conferences and workshops interesting for the HDSU group
+# List of conferences interesting for the HDSU-BMG group
 
 ## Selected Bioinformatics and Genomics related major conferences
 
