@@ -5,7 +5,6 @@ List of conferences and workshops interesting for the HDSU group
 
 | Conference/Workshops | Location | Date | Proceedings submission | Abstract submission | Registration |
 |----------------------|----------|------|------------------|---------------------|--------------|
-
 | [PSB-2020](https://psb.stanford.edu/) | Hawaii, USA | January 3-7, 2020 | **Missed** | **Missed** |December 14, 2019|
 | [BioSB-2020](https://www.aanmelder.nl/biosb2020) | Lunteren, Netherlands | April 21-22, 2020 | NA | 15 Feb (oral) 16 Mar (Poster) 2020  |16 March, 2020|
 | [RECOMB-2020](https://www.recomb2020.org/) | Padova, Italy | May, 10-13, 2020 | **Missed** | January 31, 2020 |March 6, 2020|
