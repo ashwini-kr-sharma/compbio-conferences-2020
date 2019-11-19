@@ -29,4 +29,4 @@
 
 ## Others
 
-The [Tief lab](https://generegulation.org/) maintains a comprehensive list of conferences. [See here.](https://generegulation.org/conferences-2020/)
+The [Teif lab](https://generegulation.org/) maintains a comprehensive list of conferences. [See here.](https://generegulation.org/conferences-2020/)
